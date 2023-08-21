@@ -1,9 +1,15 @@
 <!-- Blockquote -->
-> CLI that generates beautifyl README.md files
-
+```
+>  CLI that generates beautifyl README.md files
+```
 <!-- Headings -->
-# __Homepage__
-
+ # __🏠Homepage__
+```diff
+- text in red
++ text in green
+! text in orange
+@@ text in purple (and bold)@@
+```
 <!-- Italic
 *This text* is italic
 
@@ -38,26 +44,15 @@ npm run test
 <!-- Horizontal Rule -->
 - - -
 ___
-__Author__
+__👤Author__
  <!-- Tables -->
- | Name     | Email          |
- | ------- | ------
- | John Due | john@gmail.com 
- | John Due | john@gmail.com 
+* Twitter: @michalshone
+* Github : @sallugarg
 
-
+__🤝Contributing__
+##### contribution.issues and future requests are welcome!🤌 
+##### Feel free to check [Issues page](https://github.com/rtanwar572/Readme-file/edit/rohit572/README.md)
 <!-- Links   -->
-[GFG Universal ](https://www.geeksforgeeks.org)
-
-[GFG Quote ](https://www.geeksforgeeks.org)
-
-<!-- Url -->
-* Item-1
-* Item-2
-* Item-3
-    * Nested item-1
-    * Nested item-2
-
 <!-- Ol -->
 <!-- Para -->
 `<p>This is Javascript  </p>`
@@ -70,9 +65,11 @@ __Author__
         return num1+num2;
     }
  ```
-
+__📝License__
+#### Copyright @:2023 MichalShone
+#### This project is [MIT](https://gooogle.com) Licensed 
 
 <!-- Task List -->
-* [x] this is a complete item 
-* [x] this is a complete item 
-* [ ] this is an incomplete item 
+* [x] this is Geekster Course ❤️
+* [x] this is a Program Handler ❤️
+* [ ] this is an incomplete item  ❤️
